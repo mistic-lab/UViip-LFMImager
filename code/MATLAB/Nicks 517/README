@@ -1,0 +1,37 @@
+README
+
+
+
+Install matlab support package
+
+https://www.mathworks.com/hardware-support/usrp.html
+
+
+
+In matlabb:
+
+>> sdrudoc
+
+
+
+Go to step 2 - Configure Host computer for ethernet connection
+
+--most of it is just setting your own static ip
+
+-- 192.168.10.1
+
+--255.255.255.0
+
+
+
+
+
+
+https://www.mathworks.com/help/supportpkg/usrpradio/examples/fm-receiver-with-usrp-r-hardware.html
+
+https://www.mathworks.com/help/supportpkg/usrpradio/ug/comm.sdrureceiver-class.html
+
+When it comes time to MIMO
+https://www.mathworks.com/help/supportpkg/usrpradio/ug/multiple-channel-input-and-output.html
+
+https://www.mathworks.com/help/supportpkg/usrpradio/radio-settings-management.html

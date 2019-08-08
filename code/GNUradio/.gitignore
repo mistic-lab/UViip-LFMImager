@@ -1,0 +1,7 @@
+### GNU Radio specific gitignore file.
+#  Author: Nicholas Bruce
+#  Last edit: Oct. 27/17
+###
+
+# Only meant for top_blocks
+*.py
